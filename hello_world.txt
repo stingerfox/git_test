@@ -1,0 +1,1 @@
+para usar la creacion y modificaciones se usan en git los comando de <git add> y confirmamos con <git status>
